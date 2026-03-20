@@ -6,15 +6,16 @@
 
 ```
 > whoami
-ashir@bearplex ~ $ Full-Stack Developer | SaaS Builder | Chronic Over-Engineer
+ashir ~ $ Full-Stack Developer | SaaS Builder | Chronic Over-Engineer
 > uptime
-ashir@bearplex ~ $ Since 2023. Still no signs of stopping. Send help. Or coffee.
+ashir ~ $ Since 2023. Still no signs of stopping. Send help. Or coffee.
 ```
 
 <br/>
 
+[![Upwork](https://img.shields.io/badge/Hire_Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01899dbd3165112955)
+[![Instagram](https://img.shields.io/badge/@ashir__nadeem-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ashir_nadeem)
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashirnadeem)
-[![Portfolio](https://img.shields.io/badge/BearPlex-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://bearplex.com)
 [![Email](https://img.shields.io/badge/Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashirnadeem40@gmail.com)
 
 </div>
@@ -26,8 +27,7 @@ ashir@bearplex ~ $ Since 2023. Still no signs of stopping. Send help. Or coffee.
 ```
 Name:       Ashir Nadeem
 Alias:      The guy who builds at 3AM and debugs at 7AM
-Company:    BearPlex
-Role:       Founder & Full-Stack Developer
+Role:       Freelance Full-Stack Developer & SaaS Builder
 Location:   Pakistan (but the commits say I live on GitHub)
 Fun fact:   I mass deploy on Fridays. Yes, I'm that person.
 ```
@@ -137,7 +137,7 @@ e8f2a1c  feat: launched YT-AutoOS to production (finally)
 b4d9c3e  fix: sleep schedule (reverted — incompatible with deadlines)
 a1c7f8b  refactor: career from "what am I doing" to "SaaS builder"
 7e3d2a9  chore: mass deployed caffeine dependency
-f5b8e1d  init: started BearPlex — no turning back now
+f5b8e1d  init: went freelance — no turning back now
 ```
 
 ---
@@ -168,14 +168,6 @@ f5b8e1d  init: started BearPlex — no turning back now
 ---
 
 <div align="center">
-
-```
-              ____                  ____  _
-             | __ )  ___  __ _ _ _|  _ \| | _____  __
-             |  _ \ / _ \/ _` | '__| |_) | |/ _ \ \/ /
-             | |_) |  __/ (_| | |  |  __/| |  __/>  <
-             |____/ \___|\__,_|_|  |_|   |_|\___/_/\_\
-```
 
 **"Talk is cheap. Show me the deploy."** — Me, mass deploying at 2AM
 
