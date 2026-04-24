@@ -12,14 +12,14 @@
 <br/><br/>
 
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│  ashir@bearplex:~$ whoami                                       │
-│                                                                 │
-│  AI Engineer · Autonomous Agent Architect · Founder @ BearPlex  │
-│  I don't automate tasks — I replace entire workflows with AI.   │
-│                                                                 │
-│  Current obsession: agents that think, act, and close deals.   │
-└─────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────┐
+│  ashir@local:~$ whoami                                       │
+│                                                              │
+│  AI Engineer · Autonomous Agent Builder · Solo Operator      │
+│  I don't automate tasks — I replace entire workflows with AI │
+│                                                              │
+│  Current obsession: agents that think, act, and close deals  │
+└──────────────────────────────────────────────────────────────┘
 ```
 
 </div>
@@ -28,18 +28,18 @@
 
 ## `> cat about.txt`
 
-I build **AI agents and autonomous systems** that replace entire workflows — not just tools that assist humans, but systems that operate independently at scale.
+I'm a **solo AI engineer** who builds autonomous systems that replace entire workflows — not tools that assist humans, but agents that operate independently at scale.
 
-At **[BearPlex](https://github.com/bearplex)**, I design and ship end-to-end intelligent pipelines: from autonomous B2B sales engines that prospect and outreach without human input, to self-learning voice agents that cold call leads and handle objections in real-time.
+I design and ship end-to-end intelligent pipelines from scratch: self-learning voice agents that cold call leads and handle objections in real-time, autonomous B2B engines that prospect and close without human input, and LLM-powered SaaS products that run themselves.
 
-My work sits at the intersection of **LLMs, multi-agent orchestration, and product engineering**. I've shipped production AI systems powered by Claude, GPT-4, and Gemini — integrated with real business processes, not demos.
+My work sits at the intersection of **LLMs, multi-agent orchestration, and product engineering**. I've shipped production AI systems powered by Claude, GPT-4, and Gemini — integrated into real business processes, not demos.
 
 ```python
 profile = {
     "name":       "Ashir Nadeem",
     "focus":      ["AI Agents", "LLM Systems", "Autonomous Pipelines", "SaaS"],
     "stack":      ["Claude API", "OpenAI", "Gemini", "LangChain", "Python", "TypeScript"],
-    "company":    "BearPlex — AI-powered products for sales & automation",
+    "mode":       "Solo — I build it, ship it, own it",
     "location":   "Pakistan 🇵🇰  (commits don't care about timezones)",
     "available":  True,
 }
