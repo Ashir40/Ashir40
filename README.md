@@ -91,14 +91,14 @@ profile = {
 </td>
 <td width="50%">
 
-### Upwork Proposal Engine
-![Claude](https://img.shields.io/badge/Claude_API-CC785C?style=flat-square&logo=anthropic&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Pipeline-7C3AED?style=flat-square)
+### Anime Subs Web
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-**RAG-powered proposal intelligence system.** Trained on 200+ winning proposals, it analyzes job posts and generates tailored, high-conversion proposals with real-time market positioning.
+**Subtitle search & download platform for anime.** Full-stack app with fast search across a large subtitle library, multi-language support, and instant downloads — built on Next.js with Supabase as the backend.
 
-`RAG` · `LLM fine-tuning` · `freelance AI` · `conversion`
+`Next.js` · `Supabase` · `full-stack` · `TypeScript`
 
 </td>
 </tr>
