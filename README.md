@@ -49,60 +49,53 @@ profile = {
 
 ## `> ls agents/`
 
-<table>
-<tr>
-<td width="50%">
+---
 
-### Voxly — AI Cold Calling Agent
+**Voxly — AI Cold Calling Agent**
+
 ![Claude](https://img.shields.io/badge/Claude_API-CC785C?style=flat-square&logo=anthropic&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Voice AI](https://img.shields.io/badge/Voice_AI-7C3AED?style=flat-square)
 
-**Self-learning autonomous cold calling agent.** Dials leads, handles objections, qualifies prospects, and books meetings — without a human on the line. Learns from every call to improve its script and tonality over time.
+Self-learning autonomous cold calling agent. Dials leads, handles objections, qualifies prospects, and books meetings — without a human on the line. Learns from every call to improve its script and tonality over time.
 
 `autonomous` · `voice AI` · `self-learning` · `sales`
 
-</td>
-<td width="50%">
+---
 
-### KiProspect — B2B Sales Engine
+**KiProspect — B2B Sales Engine**
+
 ![OpenAI](https://img.shields.io/badge/GPT--4-412991?style=flat-square&logo=openai&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Autonomous](https://img.shields.io/badge/Multi--Agent-7C3AED?style=flat-square)
 
-**Autonomous B2B pipeline — zero human touchpoints.** Discovers ideal prospects, researches companies, crafts personalized outreach, and manages follow-up sequences. A full SDR team replaced by an agent system.
+Autonomous B2B pipeline — zero human touchpoints. Discovers ideal prospects, researches companies, crafts personalized outreach, and manages follow-up sequences. A full SDR team replaced by an agent system.
 
 `multi-agent` · `outreach` · `B2B` · `autonomous`
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+---
 
-### YT-AutoOS — Creator AI Platform
+**YT-AutoOS — Creator AI Platform**
+
 ![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 
-**AI-powered operating system for YouTube teams.** Kanban workflows, native screen recording, Gemini-powered script generation, Google Drive sync, and Stripe invoicing — all in one SaaS.
+AI-powered operating system for YouTube teams. Kanban workflows, native screen recording, Gemini-powered script generation, Google Drive sync, and Stripe invoicing — all in one SaaS.
 
 `SaaS` · `AI scripting` · `Gemini` · `multi-tenant`
 
-</td>
-<td width="50%">
+---
 
-### Anime Subs Web
+**Anime Subs Web**
+
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-**Subtitle search & download platform for anime.** Full-stack app with fast search across a large subtitle library, multi-language support, and instant downloads — built on Next.js with Supabase as the backend.
+Subtitle search & download platform for anime. Full-stack app with fast search across a large subtitle library, multi-language support, and instant downloads — built on Next.js with Supabase as the backend.
 
 `Next.js` · `Supabase` · `full-stack` · `TypeScript`
-
-</td>
-</tr>
-</table>
 
 ---
 
