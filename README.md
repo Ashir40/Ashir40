@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0d1117,100:1a1a2e&height=240&section=header&text=Ashir%20Nadeem&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=AI%20Engineer%20%E2%80%94%20Building%20Autonomous%20Agents%20%26%20Intelligent%20Systems&descSize=17&descAlignY=58&descColor=7c3aed&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:000000,40:0d1117,100:1a1a2e&amp;height=240&amp;section=header&amp;text=Ashir%20Nadeem&amp;fontSize=56&amp;fontColor=ffffff&amp;fontAlignY=36&amp;desc=AI%20Engineer%20%E2%80%94%20Building%20Autonomous%20Agents%20%26%20Intelligent%20Systems&amp;descSize=17&amp;descAlignY=58&amp;descColor=7c3aed&amp;animation=fadeIn" width="100%" />
 
 <br/>
 
-<a href="https://www.upwork.com/freelancers/~01899dbd3165112955"><img src="https://img.shields.io/badge/Hire_Me_on_Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" /></a>
-<a href="https://linkedin.com/in/ashir-nadeem"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:ashirnadeem40@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://instagram.com/ashir_nadeem"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.upwork.com/freelancers/~01899dbd3165112955"><img src="https://img.shields.io/badge/Hire_Me_on_Upwork-6FDA44?style=for-the-badge&amp;logo=upwork&amp;logoColor=white" /></a>
+<a href="https://linkedin.com/in/ashir-nadeem"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
+<a href="mailto:ashirnadeem40@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
+<a href="https://instagram.com/ashir_nadeem"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" /></a>
 
 <br/><br/>
 
@@ -138,14 +138,14 @@ Subtitle search & download platform for anime. Full-stack app with fast search a
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ashir40&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=7c3aed&text_color=c9d1d9&ring_color=7c3aed" height="180" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Ashir40&theme=github-dark-blue&hide_border=true&background=0d1117&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed&sideLabels=c9d1d9&dates=6e7681" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ashir40&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=7c3aed&amp;icon_color=7c3aed&amp;text_color=c9d1d9&amp;ring_color=7c3aed" height="180" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Ashir40&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=0d1117&amp;ring=7c3aed&amp;fire=7c3aed&amp;currStreakLabel=7c3aed&amp;sideLabels=c9d1d9&amp;dates=6e7681" height="180" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashir40&theme=github-compact&hide_border=true&bg_color=0d1117&color=7c3aed&line=7c3aed&point=c9d1d9&area=true&area_color=7c3aed" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashir40&amp;theme=github-compact&amp;hide_border=true&amp;bg_color=0d1117&amp;color=7c3aed&amp;line=7c3aed&amp;point=c9d1d9&amp;area=true&amp;area_color=7c3aed" width="95%" />
 
 </div>
 
@@ -160,10 +160,10 @@ Subtitle search & download platform for anime. Full-stack app with fast search a
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Ashir40&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=Ashir40&amp;color=7c3aed&amp;style=for-the-badge&amp;label=PROFILE+VIEWS" />
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,60:0d1117,100:000000&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1a1a2e,60:0d1117,100:000000&amp;height=120&amp;section=footer" width="100%" />
 
 </div>
